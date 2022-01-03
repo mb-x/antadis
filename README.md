@@ -7,7 +7,11 @@ $ git clone https://github.com/mb-x/antadis.git
 ```
 
 ### Step 2: Installer les repos
-
+Il faut se déplacer dans le dossier de projet
+``` bash
+$ cd antadis
+```
+Ensuite, installer les repos avec composer
 ``` bash
 $ composer install 
 ```
